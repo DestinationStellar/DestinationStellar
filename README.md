@@ -13,13 +13,17 @@
 
 ## 👨🏻‍💻 My status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adstellaria&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DestinationStellar/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adstellaria&layout=donut&theme=tokyonight" />
+  </a>
+</p>
 
 ## 🤝🏻 Connect with me
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/adstellaria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.facebook.com/adstellaria/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.cn/injobs/in/星淇-王-49889b220/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/xingqi-wang/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:adstellaria@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
